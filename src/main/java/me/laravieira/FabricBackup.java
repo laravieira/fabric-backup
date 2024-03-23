@@ -1,5 +1,6 @@
 package me.laravieira;
 
+import me.laravieira.block.ModBlocks;
 import me.laravieira.item.ModItemGroups;
 import me.laravieira.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -14,6 +15,7 @@ public class FabricBackup implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerItems();
+		ModBlocks.registerBlocks();
 		ModItemGroups.registerItemGroups();
 	}
 }

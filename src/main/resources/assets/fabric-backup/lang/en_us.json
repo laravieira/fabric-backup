@@ -1,5 +1,7 @@
 {
   "item.fabric-backup.ruby": "Ruby",
   "item.fabric-backup.raw_ruby": "Raw Ruby",
-  "itemgroup.fabric-backup.rubies": "Rubies"
+  "itemgroup.fabric-backup.rubies": "Rubies",
+  "block.fabric-backup.ruby_block": "Ruby Block",
+  "block.fabric-backup.raw_ruby_block": "Raw Ruby Block"
 }

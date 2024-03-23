@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fabric-backup:block/raw_ruby_block"
+    }
+  }
+}
