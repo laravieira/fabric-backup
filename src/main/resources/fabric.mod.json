@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "fabric-backup",
+	"version": "${version}",
+	"name": "Fabric Backup Mod",
+	"description": "Make backup of your fabric server",
+	"authors": [
+		"L4R4V131R4"
+	],
+	"contact": {
+		"homepage": "https://docs.laravieira.me/fabric-backup",
+		"sources": "https://github.com/laravieira/fabric-backup"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/modid/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.laravieira.FabricBackup"
+		],
+		"client": [
+			"me.laravieira.FabricBackupClient"
+		]
+	},
+	"mixins": [
+		"modid.mixins.json",
+		{
+			"config": "modid.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
