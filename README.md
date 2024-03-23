@@ -1,10 +1,9 @@
-# Fabric Example Mod
+<center>
+    <img width="128" height="128" alt="fabric backup icon" src="./src/main/resources/assets/icon.png"/>
+    <h1>Fabric Backup</h1>
+</center>
 
-## Setup
+Make backup of your fabric server easily.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Licenses
 Project Icon source: [Server icons created by Vectorslab - Flaticon](https://www.flaticon.com/free-icons/server)

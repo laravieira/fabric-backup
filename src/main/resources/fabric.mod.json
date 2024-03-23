@@ -11,7 +11,7 @@
 		"homepage": "https://docs.laravieira.me/fabric-backup",
 		"sources": "https://github.com/laravieira/fabric-backup"
 	},
-	"license": "CC0-1.0",
+	"license": "UNLICENSED",
 	"icon": "assets/icon.png",
 	"environment": "*",
 	"entrypoints": {
