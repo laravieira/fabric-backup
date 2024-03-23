@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["RRR", "RRR", "RRR"],
+  "key": {
+    "R": {
+      "item": "fabric-backup:ruby"
+    }
+  },
+  "result": {
+    "item": "fabric-backup:ruby_block"
+  }
+}
