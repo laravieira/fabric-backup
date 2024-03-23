@@ -12,7 +12,7 @@
 		"sources": "https://github.com/laravieira/fabric-backup"
 	},
 	"license": "UNLICENSED",
-	"icon": "assets/icon.png",
+	"icon": "fabric-backup/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
